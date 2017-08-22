@@ -1,9 +1,0 @@
----
-buildName: "springboot-weatherapp-src"
-links:
-  Git: "http://gogs/varundmishra/springboot-weatherapp-src.git"
-  Job: "http://100.71.8.151:80/job/springboot-weatherapp-src"
-  Test: "http://100.65.37.230:80/kubernetes/pods?namespace=fra-fabric8-test"
-environments:
-  Test: "fra-fabric8-test"
-useLocalFlow: true
